@@ -1,0 +1,10 @@
+2021-04-16 20:10:41 INFO  Testrunner:56 - Amazon test case started
+  2021-04-16 20:11:59 INFO  Testrunner:32 - Amazon launched
+  2021-04-16 20:12:05 INFO  Testrunner:41 - Account name : Hello, Sign in
+  2021-04-16 20:12:05 INFO  Testrunner:45 - successful matched
+  2021-04-16 20:12:07 INFO  Testrunner:55 - Chrome Closed
+  2021-04-16 20:12:07 INFO  Testrunner:65 - facebook test case started
+  2021-04-16 20:12:29 INFO  Testrunner:27 - Facebook launched
+  2021-04-16 20:12:35 INFO  Testrunner:34 - Account name : Facebook helps you connect and share with the people in your life.
+  2021-04-16 20:12:35 INFO  Testrunner:39 - Text displayed as expected
+  
